@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OrangeHRMDemoTestcases]">
+  <parameter name="Browser" value="CHROME"/>
+  <test thread-count="5" name="LoginTestcases(failed)">
+    <classes>
+      <class name="QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases">
+        <methods>
+          <include name="TestLoginWithInValidCredentials"/>
+          <include name="Init"/>
+        </methods>
+      </class> <!-- QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases -->
+    </classes>
+  </test> <!-- LoginTestcases(failed) -->
+</suite> <!-- Failed suite [OrangeHRMDemoTestcases] -->

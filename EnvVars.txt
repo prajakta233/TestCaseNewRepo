@@ -1,0 +1,5 @@
+ApplicationURL,https://opensource-demo.orangehrmlive.com/
+FirefoxDriverPath,C:\PragatiSoftwareTesting\Seleniums-Drivers\geckodriver.exe
+ChromeDriverPath,C:\PragatiSoftwareTesting\Seleniums-Drivers\chromedriver.exe
+ObjectRepositoriesLocation,C:\PragatiSoftwareTesting\qualitykioskstraining-master\TestCasesProject\OrangeHRMTestCases\ObjectRepositories
+DataFilesLocation,C:\PragatiSoftwareTesting\qualitykioskstraining-master\TestCasesProject\OrangeHRMTestCases\DataFiles
